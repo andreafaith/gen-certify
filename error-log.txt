@@ -1,0 +1,6 @@
+ERROR:  42703: column "user_role" of relation "profiles" does not exist
+LINE 21: INSERT INTO public.profiles (id, user_role)
+                                          ^
+( INSERT INTO public.profiles (id, user_role) )
+
+User_Role SQL ERROR
